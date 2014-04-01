@@ -271,6 +271,7 @@ module StripeMock
         name: "The Basic Plan",
         amount: 2300,
         currency: "usd",
+        created: 1386247539,
         id: "2",
         object: "plan",
         livemode: false,
